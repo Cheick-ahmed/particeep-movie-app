@@ -23,7 +23,6 @@
 				</div>
 			</div>
 		</div>
-		{{ tv }}
 	</div>
 </template>
 <script>
