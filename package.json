@@ -1,8 +1,8 @@
 {
-  "name": "nuxtjs",
+  "name": "Particeep",
   "version": "1.0.0",
-  "description": "My astonishing Nuxt.js project",
-  "author": "msweeneydev",
+  "description": "Particeep job interview",
+  "author": "cheick-ahmed",
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -10,9 +10,15 @@
     "start": "nuxt start"
   },
   "dependencies": {
-    "nuxt": "^2.0.0"
+    "@nuxtjs/axios": "^5.9.7",
+    "dotenv": "^8.2.0",
+    "moment": "^2.24.0",
+    "nuxt": "^2.0.0",
+    "tailwindcss": "^1.2.0",
+    "vue-observe-visibility": "^0.4.6"
   },
   "devDependencies": {
-    "nodemon": "^1.18.9"
+    "nodemon": "^1.18.9",
+    "tailwindcss-spinner": "^1.0.0"
   }
 }
