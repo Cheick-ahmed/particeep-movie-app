@@ -45,7 +45,7 @@ export default {
    ],
 
    axios : {
-    baseUrl : env.parsed.API_URL
+    baseUrl : 'https://api.themoviedb.org/3'
   },
   /*
    ** Build configuration
