@@ -23,7 +23,6 @@
 				</div>
 			</div>
 		</div>
-		{{ movie }}
 	</div>
 </template>
 <script>
